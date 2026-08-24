@@ -10,7 +10,6 @@ function Pricing() {
                     <a href='' style={{ textDecoration: "none" }} >See Pricing<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
 
-
                 <div className='col-2'>  </div>
                 <div className='col-6'>
                     <div className='row text-center'>
