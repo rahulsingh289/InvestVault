@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-function LeftSection() {
+function RightSection() {
     return (
         <div>
-            <h1>Left Section</h1>
+            <h1>Right Section</h1>
         </div>
     );
 }
 
-export default LeftSection;
+export default RightSection;
